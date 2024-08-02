@@ -1,6 +1,6 @@
 # Midas - Get data
 
-Este projeto faz parte do trabalho da disciplina de Arquitetura de Backend do curso de pós-graduação em Desenvolvimento Web FullStack da PUC Minas. Trata de uma função lambda acessível por uma API Gateway capaz receber o nome de um produto e uma latitude e longitude e retornar o preço deste produto em diversos supermercados em um raio de 7 km. Esta é a última etapa do fluxo empregado pelo [scraper](https://github.com/RicardoGPP/dwfs-abeol2-midas-scrapper-lambda) e [save-data](https://github.com/RicardoGPP/dwfs-abeol2-midas-save-data-lambda).
+Este projeto faz parte do trabalho da disciplina de Arquitetura de Backend do curso de pós-graduação em Desenvolvimento Web FullStack da PUC Minas. Trata de uma função lambda acessível por uma API Gateway capaz receber o nome de um produto e uma latitude e longitude e retornar o preço deste produto em diversos supermercados em um raio de 7 km. Esta é a última etapa do fluxo empregado pelo [scrapper](https://github.com/RicardoGPP/dwfs-abeol2-midas-scrapper-lambda) e [save-data](https://github.com/RicardoGPP/dwfs-abeol2-midas-save-data-lambda).
 
 ## Principais arquivos do projeto
 
