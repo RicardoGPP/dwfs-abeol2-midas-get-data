@@ -1,10 +1,10 @@
 module.exports = {
     client: 'pg',
     connection: {
-        host: 'dpg-cq7h1buehbks738vf0b0-a.oregon-postgres.render.com',
-        database: 'midasdb',
+        host: 'dpg-cqr0g788fa8c73fm8aeg-a.oregon-postgres.render.com',
+        database: 'midasdb_emfe',
         user: 'midasdb_user',
-        password: 'ZCgajrftFzxazyUgVMZ0AC5esaGBOE3y',
+        password: 'XCQALXk8dDTVoMNxtoNqeE16cH7dp9Iy',
         ssl: true
     }
 };
